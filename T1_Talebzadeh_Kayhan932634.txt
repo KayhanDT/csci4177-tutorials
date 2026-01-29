@@ -1,0 +1,15 @@
+# Tutorial 1
+
+* *Date Created*: 29/01/2026
+* *Last Modification Date*: 29/01/2026
+
+Individual Tutorials Repository (GitLab):
+https://git.cs.dal.ca/talebzadeh/csci4177-tutorials.git
+
+Tutorial 1 Netlify Deployment:
+https://csci4177-tut1.netlify.app/
+
+
+## Authors
+
+* [Kayhan Talebzadeh](ky245805@dal.ca)
