@@ -9,6 +9,12 @@ https://git.cs.dal.ca/talebzadeh/csci4177-tutorials.git
 Tutorial 1 Netlify Deployment:
 https://csci4177-tut1.netlify.app/
 
+Group Project Repository (GitLab):
+https://git.cs.dal.ca/kuti/CSCI4177-Project.git
+
+Individual Branch for Group Project:
+https://git.cs.dal.ca/kuti/CSCI4177-Project/-/tree/kayhan?ref_type=heads
+
 
 ## Authors
 
