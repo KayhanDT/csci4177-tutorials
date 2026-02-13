@@ -6,7 +6,8 @@
 Individual Tutorials Repository (GitLab):
 https://git.cs.dal.ca/talebzadeh/csci4177-tutorials.git
 
-Tutorial 1 Netlify Deployment:
+Tutorial 2 Netlify Deployment:
+https://csci4177-tut-2.netlify.app/
 
 
 ## Authors
