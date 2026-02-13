@@ -1,0 +1,46 @@
+.form-container {
+  width: 400px;
+}
+
+.form-container h1,
+.profile-container h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 12px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 4px;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 8px;
+  font-size: 1em;
+}
+
+.error {
+  color: red;
+  font-size: 0.85em;
+}
+
+.submit-btn {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  font-size: 1em;
+}
+
+.profile-container {
+  width: 400px;
+  text-align: center;
+}
+
+.profile-row {
+  margin-bottom: 10px;
+  font-size: 1.05em;
+}
