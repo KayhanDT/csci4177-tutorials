@@ -1,0 +1,49 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  color: #333;
+  background-color: #fff;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  width: 100%;
+}
+
+h2, h3 {
+  margin-top: 0;
+  color: #000;
+}
+
+  input {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 8px;
+  font-size: 1rem;
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}
+
+button {
+  border: none;
+  border-radius: 4px;
+  padding: 10px;
+  font-size: 1rem;
+  background-color: #000;
+  color: #fff;
+  cursor: pointer;
+  width: 100%;
+}
+
+button:hover {
+  background-color: #333;
+}
+
+a {
+  color: #006dd9;
+}
